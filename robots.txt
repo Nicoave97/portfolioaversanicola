@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Quando avrai il dominio finale, aggiorna con:
+# Sitemap: https://www.tuodominio.it/sitemap.xml
